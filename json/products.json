@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "type_id": 1,
+        "img": "AnhMacDinh.jpg",
+        "name": "Kem dưỡng ẩm clear",
+        "description": "Mô tả Kem dưỡng ẩm clear",
+        "price": 100000,
+        "total_amount": 100
+    },
+    {
+        "id": 2,
+        "type_id": 1,
+        "img": "AnhMacDinh.jpg",
+        "name": "Kem Chống Nắng ",
+        "description": "Mô tả Kem Chống Nắng",
+        "price": 100000,
+        "total_amount": 200
+    },
+    {
+        "id": 3,
+        "type_id": 1,
+        "img": "AnhMacDinh.jpg",
+        "name": "Sữa Dưỡng Thể",
+        "description": "Mô Tả",
+        "price": 100000,
+        "total_amount": 150
+    },
+    {
+        "id": 4,
+        "type_id": 1,
+        "img": "AnhMacDinh.jpg",
+        "name": "Dầu Gội Đầu",
+        "description": "Mô Tả",
+        "price": 100000,
+        "total_amount": 90
+    },
+    {
+        "id": 5,
+        "type_id": 1,
+        "img": "AnhMacDinh.jpg",
+        "name": "Dầu Gội Body",
+        "description": "Mô Tả",
+        "price": 100000,
+        "total_amount": 60
+    }
+]

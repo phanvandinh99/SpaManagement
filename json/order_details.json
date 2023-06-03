@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "product_id": 1,
+        "order_id": 1,
+        "quantity": 1,
+        "into_money": 200000
+    },
+    {
+        "id": 2,
+        "product_id": 1,
+        "order_id": 1,
+        "quantity": 1,
+        "into_money": 300000
+    }
+]

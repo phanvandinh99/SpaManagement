@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "appointment_id": 1,
+        "payment_date": "2023/05/05",
+        "price": 200000,
+        "admin_confirm": 1
+    },
+    {
+        "id": 2,
+        "appointment_id": 2,
+        "payment_date": "2023/05/06",
+        "price": 300000,
+        "admin_confirm": 1
+    }
+]
